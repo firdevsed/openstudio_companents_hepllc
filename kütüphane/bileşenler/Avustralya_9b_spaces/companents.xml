@@ -1,0 +1,40 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>Avustralya_9b_spaces</name>
+ <uid>257cf0aa-7c91-47d3-9778-1b7c2846c189</uid>
+ <version_id>7c07f29f-b307-4ae8-b8c0-a60443d37f19</version_id>
+ <xml_checksum/>
+ <display_name>189.1-2009 Nonres 1A Pencere Metal çerçeveleme diğer tüm</display_name>
+ <description>K-12 Okulları için Avustralya Ulusal İnşaat Kodu 2019 Standart Referans Alan Türleri</description>
+ <modeler_description>K-12 Okulları için Avustralya Ulusal İnşaat Kodu 2019 Standart Referans Alan Türleri</modeler_description>
+ <tags>
+  <tag>Whole Building</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>Country</name>
+   <value>Avustralya</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+<name>Building Type</name>
+<value>k-12 school</value>
+<datatype>string</datatype>
+</attribute>
+<attribute>
+   <name>Climate Zone</name>
+   <value>tümü</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>2.9.1</identifier>
+   </version>
+   <filename>Australian NCC2019 Class 9b School-SpaceTypes.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
